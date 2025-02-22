@@ -17,6 +17,10 @@ This application was created out of the need to know which applications consume 
 - Error Handling: Prevents crashes by handling exceptions.
 
 **Libraries:**
+1. psutil
+2. scapy
+3. pyshark
+4. tkinter
 
 **Licenses:**
 This project is licensed under the MIT License.
